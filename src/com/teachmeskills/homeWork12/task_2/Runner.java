@@ -1,7 +1,7 @@
 package com.teachmeskills.homeWork12.task_2;
 
 /**
- * Task *:
+ * Task 2:
  * The program receives arbitrary text as input. This text may contain a number
  * document (one or more), email and phone number. Document number in format:
  * xxxx-xxxx-xx, where x is any number; phone number in the format: +(xx)xxxxxxx. Document
